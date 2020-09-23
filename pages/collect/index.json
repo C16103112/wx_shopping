@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "Tabs":"../../commonents/Tabs/Tabs"
+  },
+  
+  "navigationBarTitleText": "我的收藏"
+}
